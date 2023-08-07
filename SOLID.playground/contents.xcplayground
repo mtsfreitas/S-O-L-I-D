@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <playground version='6.0' target-platform='ios' display-mode='raw' buildActiveScheme='true' importAppTypes='true'>
     <pages>
-        <page name='ISP'/>
-        <page name='LSP'/>
-        <page name='OCP'/>
-        <page name='SRP'/>
-        <page name='DIP'/>
+        <page name='1. SRP - wrong'/>
+        <page name='1. SRP - correct'/>
+        <page name='2. OCP - wrong'/>
+        <page name='2. OCP - correct'/>
+        <page name='3. LSP - wrong'/>
+        <page name='3. LSP - correct'/>
+        <page name='4. ISP - wrong'/>
+        <page name='4. ISP - correct'/>
+        <page name='5. DIP - wrong'/>
+        <page name='5. DIP - correct'/>
     </pages>
 </playground>
